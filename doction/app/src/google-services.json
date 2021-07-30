@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9863498676",
+    "project_id": "uploadpdf-3067b",
+    "storage_bucket": "uploadpdf-3067b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9863498676:android:8a5769d0747c3dca0a00e1",
+        "android_client_info": {
+          "package_name": "com.example.doction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9863498676-8o35cuip3salmppg6rll8o1kclgilki4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9DFR2rkYvlfB3i8pUKUgnfbNZDhY-r5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9863498676-8o35cuip3salmppg6rll8o1kclgilki4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
